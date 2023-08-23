@@ -3,5 +3,5 @@ Important error fixes.
 
 
 #### SSH CLONE ERROR:
-1. Permission denied (publickey)
+##### Permission denied (publickey)
     - -- Fix: used direct repository link instead of the given clone urls. i.e git clone ssh://git@[[main link]].git
