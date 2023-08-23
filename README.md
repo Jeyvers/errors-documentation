@@ -1,4 +1,4 @@
-# errors-documentation
+# DOCUMENTATION FOR STRESSFUL ERRORS I FIND WORTHY THAT THEIR FIXES SHOULD BE HERE
 Important error fixes.
 
 
