@@ -14,3 +14,10 @@
    pod repo update
    pod install
    ```
+
+2. ERROR: listen EADDRINUSE: address already in use :::8081.
+   FIX:
+   ```
+   yarn start dev --port 8082
+   ```
+3. 
