@@ -20,4 +20,12 @@
    ```
    yarn start dev --port 8082
    ```
-3. 
+3. ➜ Implicit dependency on target
+   FIX:
+   ```
+   cd ios
+   pod instal --repo-update
+   ```
+   If Issue Persits such as (1)
+   ``` pod update [package]```
+5. 
