@@ -24,7 +24,7 @@
    FIX:
    ```
    cd ios
-   pod instal --repo-update
+   pod install --repo-update
    ```
    If Issue Persits such as (1)
    ``` pod update [package]```
