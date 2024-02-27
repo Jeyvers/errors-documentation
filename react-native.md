@@ -28,4 +28,5 @@
    ```
    If Issue Persits such as (1)
    ``` pod update [package]```
-5. 
+5. Implicit Dependency on Target .... FIX:
+6. ``` use xcode to debug ```
