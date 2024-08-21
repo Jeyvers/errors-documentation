@@ -30,3 +30,7 @@
    ``` pod update [package]```
 5. Implicit Dependency on Target .... FIX:
 6. ``` use xcode to debug ```
+7. can't find module @babel/plugin-proposal-optional-chaining
+  ```
+yarn add --dev @babel/plugin-proposal-optional-chaining; @babel/plugin-transform-optional-chaining; @babel/plugin-proposal-nullish-coalescing-operator
+```
