@@ -34,3 +34,6 @@
   ```
 yarn add --dev @babel/plugin-proposal-optional-chaining; @babel/plugin-transform-optional-chaining; @babel/plugin-proposal-nullish-coalescing-operator
 ```
+
+7. - application is stuck on loading screen, removed target membership from firebase - prod - googleservice-info and ticked company's target membership on firebase - dev - googleservice-info - [company]
+
